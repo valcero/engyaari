@@ -1,0 +1,5 @@
+
+> engyaari@1.0.0 dev
+> tsx watch src/server.ts
+
+Server listening on port 3000
